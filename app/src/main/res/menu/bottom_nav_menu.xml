@@ -17,7 +17,7 @@
         android:title="@string/title_rewards" />
 
     <item
-        android:id="@+id/title_forum"
+        android:id="@+id/navigation_forum"
         android:icon="@drawable/baseline_forum_24"
         android:title="@string/title_forum" />
 
